@@ -61,6 +61,8 @@ header {
     padding: 0;
     padding-left: 100px;
     background: linear-gradient(to right,var(--clr-primary-700), var(--clr-primary-400));
+    display: flex;
+    align-items: center;
 }
 
 .main-image {
